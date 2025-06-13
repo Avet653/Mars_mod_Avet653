@@ -1,0 +1,8 @@
+minGameVersion: 136 //Минимальная версия игры для работы мода
+name: "[red]Mars mod" //Название хранящееся в файле игры
+subtitle: "[red]New planet mars! " //Подзаголовок
+displayName: "[red]Mars mod" //Отображаемое название мода
+description: "New planet [red]Mars [white]in mindustry!/n Zhto my first mod please hold it." //Описание мода
+author: "[red]Avet[blue]653" //Автор мода (создатель)
+version: "0.0.1" //Версия мода
+hidden: true //Доступен ли в мультиплеере (true - доступен, false - недоступен)
